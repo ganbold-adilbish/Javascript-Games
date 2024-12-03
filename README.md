@@ -6,10 +6,9 @@ Welcome to the **JavaScript Games** repository! This project features a collecti
 ---
 
 ## 🎮 Games Included
-1. **Game 1**: [Brief Description of Game 1]  
-2. **Game 2**: [Brief Description of Game 2]  
-...  
-(Replace placeholders with the actual games and descriptions).
+1. **Checkers**
+2. **Snake**
+3. **Tetris**
 
 ---
 
@@ -23,11 +22,15 @@ Welcome to the **JavaScript Games** repository! This project features a collecti
 ## 📂 Project Structure
 ```
 Javascript-Games/
-├── Game1/
+├── Checkers/
 │   ├── index.html
 │   ├── style.css
 │   ├── script.js
-├── Game2/
+├── Snake/
+│   ├── index.html
+│   ├── style.css
+│   ├── script.js
+├── Tetris/
 │   ├── index.html
 │   ├── style.css
 │   ├── script.js
