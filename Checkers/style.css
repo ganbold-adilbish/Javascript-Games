@@ -1,0 +1,7 @@
+#canvas {
+    position: relative;
+    left: -95px;
+    top: -95px;
+    background-image: url(./images/background.png);
+    background-repeat: no-repeat;
+}

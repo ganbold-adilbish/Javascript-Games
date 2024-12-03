@@ -1,0 +1,14 @@
+canvas {
+    background: black;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5px;
+}
+
+body,
+html{
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+}
